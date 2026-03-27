@@ -1,8 +1,8 @@
-# ¡Qué onda! Soy Amau ⚡
+# Que tal!!! Soy Amauri 🌟
 
-### 💻 Futuro Ingeniero en TICs | Fundador de EXPANDO | Techno Producer
+### 💻 Futuro Ingeniero en TICs | Fundador de EXPANDO | Techno lover
 
-> "Sistematizando ideas, construyendo soluciones y buscando el drop perfecto."
+> "Make with love 💗"
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Mis Estadísticas (LSD Style)
+### 📊 Mis Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=amaauuuri&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
