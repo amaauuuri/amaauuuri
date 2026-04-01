@@ -21,10 +21,5 @@
 
 ---
 
-### 📊 Mis Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=amaauuuri&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 📬 Conectemos
 [LinkedIn](https://www.linkedin.com/in/amauri-garcia/en/) | [Instagram](https://www.instagram.com/amaauuuri) |
