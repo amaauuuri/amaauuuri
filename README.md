@@ -16,7 +16,7 @@
 
 ### 🚀 Proyectos Actuales
 - 🌐 **EXPANDO:** Micro-agencia de soluciones web rápidas para PyMEs.
-- 🎹 **LSD Clock:** Arte generativo y visuales para la terminal.
+- 🎹 **Acid Clock:** Arte generativo y visuales para la terminal.
 - 📚 **Tec de Puebla:** 6to Semestre de Ingeniería en TICs.
 
 ---
