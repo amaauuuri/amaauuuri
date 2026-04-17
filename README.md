@@ -1,6 +1,6 @@
 # Que tal!!! Soy Amauri 🌟
 
-### 💻 Futuro Ingeniero en TICs | Fundador de EXPANDO | Techno lover
+### 💻 Futuro Ingeniero en TICs | Fundador de EXPANDO | Amante del Techno
 
 > "Make with love 💗"
 
